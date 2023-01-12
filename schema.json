@@ -1,0 +1,37 @@
+{
+  "type": "component",
+  "metadata": {},
+  "schema": {
+    "name": "carousel",
+    "friendlyName": "carousel",
+    "description": "a slideshow for cycling through elements",
+    "icon": "Text",
+    "hasChildren": true,
+    "settings": [
+      {
+        "type": "number",
+        "key": "autoStepTime",
+        "label": "Step Time (s)",
+        "defaultValue": 4
+      },
+      {
+        "type": "boolean",
+        "key": "showStepper",
+        "label": "Show stepper",
+        "defaultValue": true
+      },
+      {
+        "type": "color",
+        "key": "stepperBackColor",
+        "label": "Stepper Background",
+        "defaultValue": "#FFF"
+      },
+      {
+        "type": "color",
+        "key": "stepperHighlight",
+        "label": "Stepper Highlight",
+        "defaultValue": "#000"
+      }
+    ]
+  }
+}
