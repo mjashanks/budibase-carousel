@@ -1,10 +1,28 @@
-# Carousel
-This is a readme for your new Budibase plugin.
+# Budibase Carousel PLugin
 
-# Description
-A slideshow for cycling through elements
+A slideshow for cycling through elements.
 
-Find out more about [Budibase](https://github.com/Budibase/budibase).
+To use:
+1. Add the Carousel component
+2. Add children into the Carousel, for example, images - but it can be anything
+
+The carousel will display each element in order.
+
+## Properties
+
+### Step Time (s)
+The number of seconds waited until the next element is displayed
+
+### Show stepper
+Allow the user to manually choose an element to display
+
+### Stepper background
+The background colour of the manual stepper
+
+### Stepper highlight
+The background colour of the stepper for the current step
+
+
 
 ## Instructions
 
