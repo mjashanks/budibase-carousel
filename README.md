@@ -1,4 +1,6 @@
-# Budibase Carousel PLugin
+# Budibase Carousel Plugin
+
+https://user-images.githubusercontent.com/3524181/211958848-b252cfd4-0d36-49f6-8f7f-2d8fb1dab910.mp4
 
 A slideshow for cycling through elements.
 
